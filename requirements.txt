@@ -1,0 +1,9 @@
+streamlit
+textblob
+pandas
+matplotlib
+plotly
+requests
+langchain
+langchain-openai
+langchain-core
