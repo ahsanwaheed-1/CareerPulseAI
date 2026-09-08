@@ -4,6 +4,10 @@
 
 ---
 
+## Deployed link:
+
+https://career-pulse-ai.streamlit.app/
+
 ## 🌟 Key Features
 
 * **🎯 ATS Compatibility & Resume Scoring**: Calculates overall ATS scores, pinpoints missing keywords, and evaluates structural impact.
